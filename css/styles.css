@@ -1,0 +1,164 @@
+
+*{
+    margin: 0px;
+    height: 100%;
+    font-family: 'Roboto Slab', serif;
+    
+}
+
+.tophead{
+    background-image:url("./images/theater-image-background.png") ;
+    background-size: contain;
+    position: relative;
+
+}
+
+.navi{
+    display: flex; 
+    color: white;
+
+    
+}
+
+nav ul{
+    margin-left: 175px;
+    padding: 0%;
+    
+}
+
+.pic-text{
+    font-size: 70px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    
+}
+
+.date-tag{
+    margin-left: 265px;    
+    height: 5%;
+    border: 1px solid black;
+    margin-top: 80px;
+    width: 60%;
+    background-color: rgb(233, 232, 240);
+    
+    
+
+}
+
+p{
+    padding-left: 25px;
+    margin: auto;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+
+
+
+
+.img-1{
+    width: 100%;
+    height: 100%;
+
+     
+
+}
+
+
+
+.repeatlist{
+    display:flex ;
+    flex-direction: column;
+    height: 50px;
+    
+    
+}
+
+
+.repeater{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 173px;
+    
+}
+hr{
+    height: 2px;
+    margin-top: 20px;
+    width: 65%;
+    margin-left:250px ;
+    margin-bottom: 20px;
+
+}
+.repeater-2{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 173px;
+
+}
+.btndiv{
+    padding-top: 65px;
+    padding-left: 190px
+}
+
+.browsebtn{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(226, 195, 21);
+
+    
+    
+}
+footer{
+    margin-top: 25px;
+    padding-top: 25px;    
+    background-color: black;
+    margin-top: 300px;
+    color: white;
+    width: 100%;
+    height: auto;
+}
+
+.img-2{
+    height: 173px;
+    width: 174px;
+    padding-left: 0%;
+    
+
+}
+
+.footer-div{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.footer-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-list2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 75px;
+
+}
+
+.footer-list3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 95px;
+    margin: 15px;
+
+
+
+}
